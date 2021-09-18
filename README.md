@@ -1,4 +1,4 @@
-e contrataron para realizar un programa donde calcule el premio de un juego.
+Te contrataron para realizar un programa donde calcule el premio de un juego.
 
 Los premios son basados en puntos:
 Puntos 	Premio
